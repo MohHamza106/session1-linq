@@ -34,8 +34,8 @@ namespace session1_linq
             #endregion
             #endregion
             #region MyRegion
-            var products = ListGenerator.ProductList;
-            var customer = ListGenerator.CustomerList;
+            //var products = ListGenerator.ProductList;
+            //var customer = ListGenerator.CustomerList;
             #region Question1
 
             //var result = from product in products select product.ProductName;
